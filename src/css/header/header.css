@@ -1,0 +1,13 @@
+.header {
+    background: url(img/header-bee.svg) right / contain no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.header__text {
+    margin: 24px 0px;
+    font-size: 1.375rem;
+}

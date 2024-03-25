@@ -1,0 +1,15 @@
+.popular {
+    display: flex;
+    justify-content: space-between;
+    background: url(img/honey-bg.svg) left / contain no-repeat;
+    flex-wrap: wrap;
+}
+
+.popular__title {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.popular__card {
+    width: 30%;
+}

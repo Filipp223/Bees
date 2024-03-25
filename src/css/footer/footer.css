@@ -1,0 +1,16 @@
+.footer {
+    margin-top: 120px;
+}
+
+.footer__form {
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form__button {
+    align-self: center;
+    margin-top: 20px;
+}

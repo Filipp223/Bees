@@ -1,0 +1,22 @@
+.navbar {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: white;
+}
+
+.navbar .navbar__menu {
+    justify-content: flex-start;
+}
+
+.nav__item {
+    margin-right: 40px;
+}
+
+.nav-bar {
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
